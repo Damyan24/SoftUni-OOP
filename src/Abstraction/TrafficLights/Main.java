@@ -1,4 +1,4 @@
-package TrafficLights;
+package Abstraction.CardRank.TrafficLights;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package CardRank;
+package Abstraction.CardRank;
 
 public enum CardRank {
     ACE, TWO,

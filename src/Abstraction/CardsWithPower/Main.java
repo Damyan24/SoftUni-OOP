@@ -1,4 +1,4 @@
-package CardsWithPower;
+package Abstraction.CardRank.CardsWithPower;
 
 import java.util.Scanner;
 

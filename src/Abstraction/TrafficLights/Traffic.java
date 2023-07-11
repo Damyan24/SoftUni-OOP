@@ -1,6 +1,4 @@
-package TrafficLights;
-
-import java.util.Arrays;
+package Abstraction.CardRank.TrafficLights;
 
 public class Traffic {
 

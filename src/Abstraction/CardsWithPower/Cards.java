@@ -1,4 +1,4 @@
-package CardsWithPower;
+package Abstraction.CardRank.CardsWithPower;
 
 public class Cards {
     private String rank;
