@@ -1,4 +1,4 @@
-package Abstraction.CardRank.CardSuit;
+package Abstraction.CardSuit;
 
 public class Main {
 

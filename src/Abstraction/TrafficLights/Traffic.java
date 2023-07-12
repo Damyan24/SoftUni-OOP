@@ -1,4 +1,4 @@
-package Abstraction.CardRank.TrafficLights;
+package Abstraction.TrafficLights;
 
 public class Traffic {
 
