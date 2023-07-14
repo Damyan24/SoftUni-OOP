@@ -3,8 +3,20 @@ package Inheritance.restaurant;
 import java.math.BigDecimal;
 
 public class Product {
-    private final String name;
-    private final BigDecimal price;
+
+    private  String name;
+    private BigDecimal price;
+
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setPrice(BigDecimal price) {
+        this.price = price;
+    }
+
+
 
 
     public Product(String name , BigDecimal price){

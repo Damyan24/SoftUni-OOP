@@ -3,7 +3,9 @@ package Inheritance.restaurant;
 import java.math.BigDecimal;
 
 public class Food extends Product {
-    private final double grams;
+
+
+    private double grams;
 
     public Food(String name , BigDecimal price,double grams){
         super(name , price);

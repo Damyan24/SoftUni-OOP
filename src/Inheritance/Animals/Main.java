@@ -1,11 +1,11 @@
-package Inheritance.Animals;
+package Animals;
 
 import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        HashMap<String,Animal> animalList = new LinkedHashMap<>();
+        HashMap<String, Animal> animalList = new LinkedHashMap<>();
 
         String type = scan.nextLine();
 
@@ -29,10 +29,10 @@ public class Main {
                     Frog frog = new Frog(name , age ,gender);
                     animalList.put(type,frog);
                 } else if (type.equals("Kitten")) {
-                    Kitten kittens = new Kitten(name , age , "Female");
+                    Kitten kittens = new Kitten(name , age);
                     animalList.put(type,kittens);
                 } else if (type.equals("Tomcat")) {
-                    Tomcat tomcat = new Tomcat(name , age ,"Male");
+                    Tomcat tomcat = new Tomcat(name , age);
                     animalList.put(type,tomcat);
                 }
 
@@ -45,7 +45,6 @@ public class Main {
         }
 
         for(Map.Entry<String,Animal> entry : animalList.entrySet()){
-            System.out.println(entry.getKey());
             System.out.println(entry.getValue().toString());
         }
 

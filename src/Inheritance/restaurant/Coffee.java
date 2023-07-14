@@ -3,17 +3,21 @@ package Inheritance.restaurant;
 import java.math.BigDecimal;
 
 public class Coffee extends HotBeverage {
-    private final int COFFEE_MILLILITERS = 50;
-    private final BigDecimal COFFEE_PRICE = BigDecimal.valueOf(3.50);
 
-    private  double caffeine;
+
+    private double caffeine;
+    private static final int COFFEE_MILLILITERS = 50;
+    private static final BigDecimal COFFEE_PRICE = BigDecimal.valueOf(3.50);
+
+
 
     public double getCaffeine() {
         return caffeine;
     }
 
-    public Coffee(String name, BigDecimal price, double milliliters,double caffeine) {
-        super(name, BigDecimal.valueOf(3.50), 50);
+    public Coffee(String name,double caffeine) {
+        super(name, COFFEE_PRICE ,COFFEE_MILLILITERS);
         this.caffeine = caffeine;
+
     }
 }

@@ -1,7 +1,5 @@
 package Inheritance.restaurant;
 
-import Inheritance.restaurant.HotBeverage;
-
 import java.math.BigDecimal;
 
 public class Tea extends HotBeverage {

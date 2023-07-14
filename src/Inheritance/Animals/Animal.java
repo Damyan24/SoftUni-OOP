@@ -1,4 +1,4 @@
-package Inheritance.Animals;
+package Animals;
 
 public class Animal {
     private String name;
@@ -19,22 +19,25 @@ public class Animal {
 
     public Animal(String name , int age , String gender) {
 
-        if(age < 0){
+        if(age < 0 || name.trim().isEmpty()){
             throw new IllegalArgumentException("Invalid input!");
         }
         this.name = name;
         this.age = age;
         this.gender = gender;
+
     }
 
     public String produceSound(){
-        return "";
+        return null;
     }
 
     @Override
     public String toString() {
         StringBuilder stb = new StringBuilder();
-        stb.append(name+" "+age+" " + gender+"\n"+produceSound());
+        stb.append(this.getClass().getSimpleName()).append(System.lineSeparator());
+        stb.append(this.name).append(" ").append(this.age).append(" ").append(this.gender).append(System.lineSeparator());
+        stb.append(this.produceSound());
         return stb.toString();
     }
 }
