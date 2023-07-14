@@ -4,21 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4134f99-5975-4f85-9359-9d19d8c0314f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUniOOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardRank/CardRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardRank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardSuit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardSuit/Suits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardsWithPower/Cards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardsWithPower/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficLights/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficLights/Traffic.java" afterDir="false" />
+    <list default="true" id="e4134f99-5975-4f85-9359-9d19d8c0314f" name="Changes" comment="&quot;-&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/CardRank/CardRank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/CardRank/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/CardSuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/CardSuit/Suits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/CardsWithPower/Cards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/CardsWithPower/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/TrafficLights/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Abstraction/TrafficLights/Traffic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Encapsulation/box/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Encapsulation/box/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Encapsulation/box/animalFarm/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftUniOOP/Encapsulation/box/animalFarm/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +33,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-19/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,13 +56,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Damqn/Desktop/OOP/SoftUniOOP",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Settings.DiagramsNet.Preview"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +76,28 @@
       <option name="presentableId" value="Default" />
       <updated>1688985687504</updated>
     </task>
+    <task id="LOCAL-00001" summary="Enums">
+      <created>1689063034612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689063034612</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;-&quot;">
+      <created>1689189321959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689189321959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;-&quot;">
+      <created>1689189393106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689189393106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,7 +111,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -86,5 +122,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Enums" />
+    <MESSAGE value="&quot;-&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;-&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Encapsulation/ShoppingSpree/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
